@@ -1,0 +1,27 @@
+/* default font starts  */
+font-family: 'Dancing Script', cursive;
+/* default font ends  */
+/* .navbar{
+    padding: 1% 10%;
+} */
+/* carousel starts  */
+.carousel-item img{
+    width: 100%;
+    height: 80vh !important;
+}
+/* carousel ends  */
+/* about me starts  */
+.me{
+font-family: 'Dancing Script', cursive;
+}
+.what{
+    font-family: 'Dancing Script', cursive;  
+}
+
+/* about me ends  */
+/* our team starts  */
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
+/* our team ends  */
